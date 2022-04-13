@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GiveLove")]
 [assembly: AssemblyDescription("Thả Thính")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TNT")]
+[assembly: AssemblyCompany("PVCT")]
 [assembly: AssemblyProduct("GiveLove")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
